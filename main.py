@@ -17,8 +17,6 @@ async def joke_Cmd(update: Update, context: ContextTypes.DEFAULT_TYPE):
     else:
         await update.message.reply_text(f"{data['setup']}\n\n{data['delivery']}")
 
-
-
 async def help_Cmd(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text("MimicMe Bot will just Mimic what you said in mocking way. And it'll tell you some random jokes.")
 
