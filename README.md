@@ -13,6 +13,7 @@ A fun Telegram bot that mimics your messages in a mocking way, tells jokes, and 
 1. Clone the repo
 ```bash
 git clone https://github.com/aditya4w/MimicMe-Telegram-Bot
+cd MimicMe_TGBot
 ```
 
 2. Install dependencies
